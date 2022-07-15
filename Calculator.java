@@ -5,4 +5,7 @@ public Class Calculator{
     public Sub(int a,int b){
         return a-b;
     }
+    public Multiply(int a, int b){
+        return a/b;
+    }
 }
